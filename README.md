@@ -1,10 +1,10 @@
 # spring-based-online-store
-entry level project
+An entry level project
 
 Framework: Spring MVC/Spring Security, Maven
 
-frontend: JSP, RESTful
+Frontend: JSP, RESTful
 
-backend: Apach Tomcat
+Backend: Apach Tomcat
 
-database: H2 
+Database: H2 
