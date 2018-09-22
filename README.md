@@ -3,7 +3,7 @@ An entry level project
 
 Framework: Spring MVC/Spring Security, Maven
 
-Frontend: JSP, RESTful
+Frontend: JSP, angular.js
 
 Backend: Apach Tomcat
 
