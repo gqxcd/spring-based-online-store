@@ -1,5 +1,4 @@
 # spring-based-online-store
-An entry level project
 
 Framework: Spring MVC/Spring Security, Maven
 
